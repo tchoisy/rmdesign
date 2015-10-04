@@ -5,9 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "bower": "^1.5.3",
-    "brunch": "^1.8.5"
+    "brunch": "^1.8.5",
+    "css-brunch": "^1.7.0"
   },
   "devDependencies": {
+    "css-brunch": "^1.7.0",
     "javascript-brunch": "^1.7.1",
     "sass-brunch": "^1.9.1"
   },
