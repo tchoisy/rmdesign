@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/sass/master.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"public\\css\\main.min.css","sourcesContent":["h1 {\r\n  color: #450000; }\r\n\r\nbody {\r\n  background: #003500; }\r\n"]}
