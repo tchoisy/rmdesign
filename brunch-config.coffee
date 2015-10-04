@@ -1,5 +1,6 @@
 module.exports = config:
   paths:
+    watched : ['app', 'bower_components']
     public: 'public'
   files:
     javascripts:
