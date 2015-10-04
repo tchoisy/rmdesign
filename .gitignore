@@ -1,2 +1,4 @@
 tmp/*
 library/*
+dev/*
+node_modules/*
